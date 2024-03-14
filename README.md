@@ -17,7 +17,7 @@ This repository contains programs written for the higher-level programming at AL
 * [python-almost_a_circle](https://github.com/oreste-abizera/alu-higher_level_programming/tree/main/python-almost_a_circle)
 ## Authors
 
-- [@oreste-abizera](https://www.github.com/oreste-abizera)
+- [@Gustavy](https://www.github.com/Gustavy)
 
 
 ## Acknowledgements
